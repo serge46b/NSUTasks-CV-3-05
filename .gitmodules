@@ -1,0 +1,7 @@
+[submodule "CDetectionSubmodule"]
+	path = CDetectionSubmodule
+	url = https://github.com/cyberpsychozz/Project-task-1-CV-01-05-.git
+[submodule "DDetectionSubmodule"]
+	path = DDetectionSubmodule
+	url = https://github.com/asanaaa/AI-based-development.git
+	branch = ex2
